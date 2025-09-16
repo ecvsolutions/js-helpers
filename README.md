@@ -11,4 +11,4 @@ or
 ```
 
 note
-`... ecvsolutions/js-helpers/[FILE_NAME].js`
+`... ecvsolutions/.../[FILE_NAME].js`
