@@ -5,5 +5,9 @@ CDN for all:
 ```js
 <script src="https://cdn.jsdelivr.net/gh/ecvsolutions/js-helpers/vnd-words.js"></script>
 ```
+or
+```js
+<script src="https://cdn.githubraw.com/ecvsolutions/js-helpers/refs/heads/main/vnd-words.js"></script>
+```
 
 `... ecvsolutions/js-helpers/[FILE_NAME].js`
